@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Write a function named index_range that takes two integer arguments page and page_size.
+Write a function named index_range that takes two
+integer arguments page and page_size.
 """
 from typing import Tuple
 
