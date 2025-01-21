@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- Coding: utf-8 -*-
 """
-Create a class BasicCache that inherits from BaseCaching and is a caching system:
+Create a class BasicCache that inherits from BaseCaching
+and is a caching system:
 """
 from base_caching import BaseCaching
 
