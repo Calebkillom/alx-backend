@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Implement a get_hyper method that takes the same arguments (and defaults) 
+Implement a get_hyper method that takes the same arguments (and defaults)
 as get_page and returns a dictionary containing the following key-value pairs:
 """
 from typing import Tuple, List, Dict
